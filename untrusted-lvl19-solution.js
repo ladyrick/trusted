@@ -144,4 +144,3 @@ function startLevel(map) {
 
     map.createFromDOM($dom);
 }
- 
