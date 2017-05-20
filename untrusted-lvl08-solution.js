@@ -107,4 +107,3 @@ function validateLevel(map) {
     map.validateAtLeastXObjects(100, 'tree');
     map.validateExactlyXManyObjects(1, 'exit');
 }
- 
