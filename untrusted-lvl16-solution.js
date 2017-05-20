@@ -84,4 +84,3 @@ function validateLevel(map) {
     map.validateExactlyXManyObjects(1, 'exit');
     map.validateAtLeastXLines(25);
 }
- 
