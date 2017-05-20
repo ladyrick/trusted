@@ -27,4 +27,3 @@ function startLevel(map) {
 
     map.placeObject(map.getWidth() - 5, 5, 'exit');
 }
- 
