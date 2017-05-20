@@ -90,4 +90,3 @@ function onExit(map) {
         return true;
     }
 }
- 
