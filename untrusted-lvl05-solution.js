@@ -42,4 +42,3 @@ function validateLevel(map) {
     map.validateAtLeastXObjects(40, 'mine');
     map.validateExactlyXManyObjects(1, 'exit');
 }
- 
