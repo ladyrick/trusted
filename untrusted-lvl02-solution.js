@@ -37,4 +37,3 @@ function startLevel(map) {
     try{map.placeObject(6, 6, 'exit');}catch(e){}
     map.placeObject(map.getWidth()-5, map.getHeight()-4, 'exit');
 }
- 
