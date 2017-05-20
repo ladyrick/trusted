@@ -64,4 +64,3 @@ function validateLevel(map) {
     map.validateExactlyXManyObjects(1, 'exit');
     map.validateExactlyXManyObjects(520, 'block');
 }
- 
